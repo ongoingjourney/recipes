@@ -2,5 +2,6 @@
 
 Contains delicious recipes. After some additional work I hope my colleagues can give some tips and suggestions!
 
-## Todo
-* Create folder structure for different food times
+## TODO
+* make some edits so this show up in GH4mac 
+
